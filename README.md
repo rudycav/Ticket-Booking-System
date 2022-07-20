@@ -11,6 +11,25 @@ retrieval. Database admins can view check the status of current users and other 
 
 ![](screenshots/register.JPG)
 
+## Login Page
+
+![](screenshots/login.JPG)
+
+## Home Page
+
+![](screenshots/homepage.JPG)
+
+## Events Page
+![](screenshots/events.JPG)
+
+## Cart Page
+![](screenshots/cart.JPG)
+
+## Confirmation Page
+![](screenshots/confirmation.JPG)
+
+## Contact Page
+![](screenshots/homepage.JPG)
 References:
 
 http://learningprogramming.net/php-mysql/php/checkout-shopping-cart-in-php/
