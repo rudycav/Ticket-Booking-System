@@ -11,6 +11,8 @@ retrieval. Database admins can view check the status of current users and other 
 ## Database
 ![](screenshots/database.JPG)
 
+The Database contains 5 tables: billing, orders, ordersdetail, product, and users
+
 ## Billing Table
 ![](screenshots/billing.JPG)
 
