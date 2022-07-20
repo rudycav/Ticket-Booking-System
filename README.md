@@ -9,7 +9,7 @@ retrieval. Database admins can view check the status of current users and other 
 
 ## Register Page
 
-![](screenshots/)
+![](screenshots/register.JPG)
 
 References:
 
