@@ -7,6 +7,14 @@ on name, location, price, seating, and time. They are able to view their tickets
 User data such as purchase and contact information are store inside a database avaialable for 
 retrieval. Database admins can view check the status of current users and other admins in the database. 
 
+
+## Database
+
+![](screenshots/database.JPG)
+
+## Billing Table
+![](screenshots/billing.JPG)
+
 ## Register Page
 
 ![](screenshots/register.JPG)
@@ -29,7 +37,7 @@ retrieval. Database admins can view check the status of current users and other 
 ![](screenshots/confirmation.JPG)
 
 ## Contact Page
-![](screenshots/homepage.JPG)
+![](screenshots/contact.JPG)
 References:
 
 http://learningprogramming.net/php-mysql/php/checkout-shopping-cart-in-php/
