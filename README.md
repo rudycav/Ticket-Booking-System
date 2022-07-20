@@ -1,3 +1,5 @@
+#Ticket Booking System
+
 An online ticket booking system where users can signup and login/ logout of their account. 
 They are able to view tickets available for purchase and store their tickets in a cart. 
 They can remove or update quantities in their cart settings. They can search for events based
