@@ -63,7 +63,6 @@ This table records both customer and admin account information: username, passwo
 ## Contact Page
 ![](screenshots/contact.JPG)
 
-## Footer Section
-![](screenshots/footer.JPG)
+
 
 
