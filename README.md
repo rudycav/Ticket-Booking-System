@@ -67,8 +67,3 @@ This table records both customer and admin account information: username, passwo
 ![](screenshots/footer.JPG)
 
 
-References:
-
-http://learningprogramming.net/php-mysql/php/checkout-shopping-cart-in-php/
-
-https://www.w3schools.com/howto/howto_css_checkout_form.asp
