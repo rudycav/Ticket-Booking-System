@@ -8,7 +8,7 @@ User data such as purchase and contact information are store inside a database a
 retrieval. Database admins can view check the status of current users and other admins in the database. 
 
 
-- ## Database
+## - Database
 ![](screenshots/database.JPG)
 
 The Database contains 5 tables: billing, orders, ordersdetail, product, and users
