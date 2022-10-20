@@ -1,5 +1,4 @@
 # Ticket Booking System
-
 - An online ticket booking system where users can signup and login/ logout of their account
   and purchase event tickets. 
   
